@@ -80,11 +80,16 @@ return (
             <i className="ri-twitter-x-fill"></i>
           </div>
         </a>
-        <a href="https://www.instagram.com/dkc_subang0913">
+        <a href="https://www.instagram.com/dkc_subang0913" target='_blank'>
           <div className='ml-2 border-gray-400 border h-8 w-8 rounded-full flex items-center justify-center cursor-pointer hover:bg-[#EDB11E] hover:border-[#EDB11E] text-gray-400 hover:text-white'>
             <i className="ri-instagram-line"></i>
           </div>
         </a>
+        {/* <a href="https://wa.me/6281214189789" target='_blank'>
+          <div className='ml-2 border-gray-400 border h-8 w-8 rounded-full flex items-center justify-center cursor-pointer hover:bg-[#EDB11E] hover:border-[#EDB11E] text-gray-400 hover:text-white'>
+            <i className="ri-whatsapp-line"></i>
+          </div>
+        </a> */}
       </div>
     </div>
   </nav>
@@ -131,11 +136,7 @@ return (
       <a href="#required_files" onClick={handleScroll} 
         className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-[#EDB11E] hover:bg-[#E2A712] focus:ring-4 focus:ring-[#F6D88E]">
         Ikut Berpartisipasi
-        <svg className="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
-          viewBox="0 0 14 10">
-          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-            d="M1 5h12m0 0L9 1m4 4L9 9" />
-        </svg>
+        <i className="ri-arrow-right-line"></i>
       </a>
     </div>
   </div>
@@ -179,6 +180,12 @@ return (
           <div
             className='ml-4 border-gray-400 border h-8 w-8 rounded-full flex items-center justify-center cursor-pointer hover:bg-[#EDB11E] hover:border-[#EDB11E] text-gray-400 hover:text-white'>    
             <i className="ri-instagram-line"></i>
+          </div>
+        </a>
+        <a href="https://wa.me/6281214189789" target='_blank'>
+          <div
+            className='ml-4 border-gray-400 border h-8 w-8 rounded-full flex items-center justify-center cursor-pointer hover:bg-[#EDB11E] hover:border-[#EDB11E] text-gray-400 hover:text-white'>    
+            <i className="ri-whatsapp-line"></i>
           </div>
         </a>
       </div>
