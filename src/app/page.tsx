@@ -147,16 +147,16 @@ return (
   <section className="bg-white max-h-full" id='required_files'>
   <div className='flex flex-col items-center justify-center text-center py-8'>
     <p className='p-0 mb-5 text-[#EDB11E]'>TATA CARA</p>
-    <h2 className="text-4xl font-bold mb-10">Berpartisipasi di Raimuna Subang</h2>
+    <h2 className="text-4xl font-bold mb-10 text-black">Berpartisipasi di Raimuna Subang</h2>
     <div className="w-2/3 py-10 text-left">
-      <div className='inline text-4xl font-bold'>1. </div>
-      <div className='inline text-lg'>Pastikan untuk membaca dengan cermat petunjuk teknis dan pelaksanaan yang tersedia.</div>
+      <div className='inline text-4xl font-bold text-black'>1. </div>
+      <div className='inline text-lg text-black'>Pastikan untuk membaca dengan cermat petunjuk teknis dan pelaksanaan yang tersedia.</div>
       <hr className='my-10' />
-      <div className='inline text-4xl font-bold'>2. </div>
-      <div className='inline text-lg'>Ada beberapa berkas yang perlu Anda persiapkan dengan seksama, berikut adalah template berkas nya yang bisa di <a href="https://linktr.ee/dkcsubang" className='text-[#EDB11E] underline' target='_blank'>Lihat</a></div>
+      <div className='inline text-4xl font-bold text-black'>2. </div>
+      <div className='inline text-lg text-black'>Ada beberapa berkas yang perlu Anda persiapkan dengan seksama, berikut adalah template berkas nya yang bisa di <a href="https://linktr.ee/dkcsubang" className='text-[#EDB11E] underline' target='_blank'>Lihat</a></div>
       <hr className='my-10' />
-      <div className='inline text-4xl font-bold'>3. </div>
-      <div className='inline text-lg'>Setelah Anda memastikan bahwa semua persiapan telah selesai, saatnya untuk melanjutkan dengan melakukan pengisian data yang diperlukan pada link berikut <a href="https://forms.gle/TThVm1Ettrqu7CrZ9" className='text-[#EDB11E] underline' target='_blank'>Google Form</a> </div>
+      <div className='inline text-4xl font-bold text-black'>3. </div>
+      <div className='inline text-lg text-black'>Setelah Anda memastikan bahwa semua persiapan telah selesai, saatnya untuk melanjutkan dengan melakukan pengisian data yang diperlukan pada link berikut <a href="https://forms.gle/TThVm1Ettrqu7CrZ9" className='text-[#EDB11E] underline' target='_blank'>Google Form</a> </div>
     </div>
   </div>
   </section>
