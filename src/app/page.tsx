@@ -153,7 +153,7 @@ return (
       <div className='inline text-lg text-black'>Pastikan untuk membaca dengan cermat petunjuk teknis dan pelaksanaan yang tersedia.</div>
       <hr className='my-10' />
       <div className='inline text-4xl font-bold text-black'>2. </div>
-      <div className='inline text-lg text-black'>Ada beberapa berkas yang perlu Anda persiapkan dengan seksama, berikut adalah berkas dokumen seputar kegiatan RAIMUNA SUBANG 2023, bisi diunduh <a href="https://linktr.ee/dkcsubang" className='text-[#EDB11E] underline' target='_blank'>disini</a></div>
+      <div className='inline text-lg text-black'>Ada beberapa berkas yang perlu Anda persiapkan dengan seksama, berikut adalah berkas dokumen seputar kegiatan RAIMUNA SUBANG 2023, bisa diunduh <a href="https://linktr.ee/dkcsubang" className='text-[#EDB11E] underline' target='_blank'>disini</a></div>
       <hr className='my-10' />
       <div className='inline text-4xl font-bold text-black'>3. </div>
       <div className='inline text-lg text-black'>Setelah Anda memastikan bahwa semua persiapan telah selesai, saatnya untuk melanjutkan dengan melakukan pengisian data yang diperlukan pada link berikut <a href="https://forms.gle/TThVm1Ettrqu7CrZ9" className='text-[#EDB11E] underline' target='_blank'>Formulir Pendaftaran RAIMUNA SUBANG 2023</a> </div>
