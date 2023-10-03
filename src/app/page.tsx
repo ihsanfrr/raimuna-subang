@@ -6,7 +6,7 @@ import logoRaican from './../../public/icons/raican.png'
 import { useEffect, useState } from 'react';
 
 export default function Home() {
-  const countdownDate = new Date('2023-10-09T00:00:00').getTime();
+  const countdownDate = new Date('2023-10-17T00:00:00').getTime();
 
   const handleScroll = (e: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
     e.preventDefault();
